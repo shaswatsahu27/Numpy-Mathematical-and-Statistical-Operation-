@@ -18,15 +18,16 @@ mathematical computations, array operations, and statistical analysis on numeric
 ## How to Run
 ```bash
 pip install numpy
-python task1_creating_arrays.py
-python task2_math_operations.py
-python task3_math_formulas.py
-python task4_aggregation.py
-python task5_statistics.py
-python task6_percentiles.py
-python task7_sales_analysis.py
+python task1.py
+python task2.py
+python task3.py
+python task4.py
+python task5.py
+python task6.py
+python task7.py
 ```
 
 ## Requirements
 - Python 3.x
 - NumPy
+- https://019d2db3-ee44-756f-be6b-2a5d78258421.arena.site/
